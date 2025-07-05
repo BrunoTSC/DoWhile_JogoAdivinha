@@ -1,0 +1,7 @@
+C:\Users\bruno\OneDrive\Documentos\DeveloperC#2025\02_EstruturaDeControle\DoWhile_JogoAdivinha\bin\Debug\DoWhile_JogoAdivinha.exe.config
+C:\Users\bruno\OneDrive\Documentos\DeveloperC#2025\02_EstruturaDeControle\DoWhile_JogoAdivinha\bin\Debug\DoWhile_JogoAdivinha.exe
+C:\Users\bruno\OneDrive\Documentos\DeveloperC#2025\02_EstruturaDeControle\DoWhile_JogoAdivinha\bin\Debug\DoWhile_JogoAdivinha.pdb
+C:\Users\bruno\OneDrive\Documentos\DeveloperC#2025\02_EstruturaDeControle\DoWhile_JogoAdivinha\obj\Debug\DoWhile_JogoAdivinha.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\DeveloperC#2025\02_EstruturaDeControle\DoWhile_JogoAdivinha\obj\Debug\DoWhile_JogoAdivinha.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\DeveloperC#2025\02_EstruturaDeControle\DoWhile_JogoAdivinha\obj\Debug\DoWhile_JogoAdivinha.exe
+C:\Users\bruno\OneDrive\Documentos\DeveloperC#2025\02_EstruturaDeControle\DoWhile_JogoAdivinha\obj\Debug\DoWhile_JogoAdivinha.pdb
